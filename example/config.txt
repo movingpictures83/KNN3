@@ -1,0 +1,2 @@
+Prefix plugins/KNN3/example/
+Plugin KNN3 inputfile parameters.txt outputfile none
